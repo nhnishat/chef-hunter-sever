@@ -1,6 +1,6 @@
   [
     {
-      "id": "001",
+      "id": "1",
       "picture": "https://i.ibb.co/7zn8LWt/chef16.jpg",
       "name": "Alice Smith",
       "yearsOfExperience": 10,
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "id": "002",
+      "id": "2",
       "picture": "https://i.ibb.co/HCwH8dw/chef15.jpg",
       "name": "Bob Johnson",
       "yearsOfExperience": 5,
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "003",
+      "id": "3",
       "picture": "https://i.ibb.co/4VBdbnz/chef12.jpg",
       "name": "Charlie Brown",
       "yearsOfExperience": 20,
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "004",
+      "id": "4",
       "picture": "https://i.ibb.co/cDrDZ9j/chef14.jpg",
       "name": "David Lee",
       "yearsOfExperience": 8,
@@ -104,7 +104,7 @@
         ]
     },
    {
-        "id": "005",
+        "id": "5",
         "picture": "https://i.ibb.co/dDQrsmS/chef13.jpg",
         "name": "Evelyn Chen",
         "yearsOfExperience": 15,
@@ -130,13 +130,13 @@
         ]
    },
    {
-        "id": "006",
+        "id": "6",
         "picture": "https://i.ibb.co/DgKdwxw/chef1.jpg",
         "name": "Frankie Perez",
         "yearsOfExperience": 3,
         "numRecipes": 10,
         "likes": 100,
-        "description": "Chef Emily is a young chef with a passion for baking. She enjoys creating sweet treats and sharing her creations with others.",
+        "description": "Frankie Perez is a young chef with a passion for baking. She enjoys creating sweet treats and sharing her creations with others.",
         "recipes": [
         {
         "recipeName": "Chocolate Chip Cookies",
