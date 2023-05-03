@@ -1,50 +1,158 @@
-[
+  [
     {
-      "id": 1,
+      "id": "001",
       "picture": "https://i.ibb.co/7zn8LWt/chef16.jpg",
       "name": "Alice Smith",
       "yearsOfExperience": 10,
       "numRecipes": 50,
-      "likes": 2500
+      "likes": 500,
+      "description": "Chef John has been cooking for over a decade and loves to share his passion for food with others. His recipes are both delicious and easy to follow.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Carbonara",
+          "id": "r001",
+          "photoUrl": "https://example.com/images/carbonara.jpg"
+        },
+        {
+          "recipeName": "Beef Stroganoff",
+          "id": "r002",
+          "photoUrl": "https://example.com/images/stroganoff.jpg"
+        },
+        {
+          "recipeName": "Chocolate Cake",
+          "id": "r003",
+          "photoUrl": "https://example.com/images/chocolatecake.jpg"
+        }
+      ]
     },
     {
-      "id": 2,
+      "id": "002",
       "picture": "https://i.ibb.co/HCwH8dw/chef15.jpg",
       "name": "Bob Johnson",
-      "yearsOfExperience": 15,
-      "numRecipes": 80,
-      "likes": 3000
+      "yearsOfExperience": 5,
+      "numRecipes": 20,
+      "likes": 200,
+      "description": "Chef Jane is a rising star in the culinary world with a passion for creating healthy and delicious meals. She loves to experiment with new flavors and ingredients.",
+      "recipes": [
+        {
+          "recipeName": "Quinoa Salad",
+          "id": "r004",
+          "photoUrl": "https://example.com/images/quinoasalad.jpg"
+        },
+        {
+          "recipeName": "Grilled Chicken",
+          "id": "r005",
+          "photoUrl": "https://example.com/images/grilledchicken.jpg"
+        },
+        {
+          "recipeName": "Berry Smoothie",
+          "id": "r006",
+          "photoUrl": "https://example.com/images/berrysmoothie.jpg"
+        }
+      ]
     },
     {
-      "id": 3,
+      "id": "003",
       "picture": "https://i.ibb.co/4VBdbnz/chef12.jpg",
       "name": "Charlie Brown",
       "yearsOfExperience": 20,
-      "umRecipes": 100,
-      "likes": 5000
+      "numRecipes": 100,
+      "likes": 1000,
+      "description": "Chef Tom is a veteran of the kitchen with over 20 years of experience. He specializes in classic dishes with a modern twist and loves to teach others the art of cooking.",
+      "recipes": [
+        {
+          "recipeName": "Beef Wellington",
+          "id": "r007",
+          "photoUrl": "https://example.com/images/beefwellington.jpg"
+        },
+        {
+          "recipeName": "Lobster Bisque",
+          "id": "r008",
+          "photoUrl": "https://example.com/images/lobsterbisque.jpg"
+        },
+        {
+          "recipeName": "Tiramisu",
+          "id": "r009",
+          "photoUrl": "https://example.com/images/tiramisu.jpg"
+        }
+      ]
     },
     {
-      "id": 4,
+      "id": "004",
       "picture": "https://i.ibb.co/cDrDZ9j/chef14.jpg",
       "name": "David Lee",
-      "yearsOfExperience": 12,
-      "numRecipes":" 60",
-      "likes":" 1800"
-    },
-    {
-      "id": 5,
-      "picture": "https://i.ibb.co/dDQrsmS/chef13.jpg",
-      "name":"Evelyn Chen",
       "yearsOfExperience": 8,
-      "numRecipes": 40,
-      "likes": 1200
+      "numRecipes":25,
+        "likes": 250,
+        "description": "Chef Sarah is a passionate chef with a love for all things spicy. She enjoys experimenting with bold flavors and creating dishes that pack a punch.",
+        "recipes": [
+        {
+        "recipeName": "Jerk Chicken",
+        "id": "r010",
+        "photoUrl": "https://example.com/images/jerkchicken.jpg"
+        },
+        {
+        "recipeName": "Spicy Tofu Stir Fry",
+        "id": "r011",
+        "photoUrl": "https://example.com/images/tofustirfry.jpg"
+        },
+        {
+        "recipeName": "Hot and Sour Soup",
+        "id": "r012",
+        "photoUrl": "https://example.com/images/hotsoursoup.jpg"
+        }
+        ]
     },
-    {
-      "id": 6,
-      "picture": "https://i.ibb.co/DgKdwxw/chef1.jpg",
-      "name": "Frankie Perez",
-      "yearsOfExperience": 25,
-      "umRecipes": 120,
-      "likes": 8000
-    }
+   {
+        "id": "005",
+        "picture": "https://i.ibb.co/dDQrsmS/chef13.jpg",
+        "name": "Evelyn Chen",
+        "yearsOfExperience": 15,
+        "numRecipes": 75,
+        "likes": 750,
+        "description": "Chef Alex is a creative chef who loves to experiment with new flavors and ingredients. He enjoys sharing his knowledge and experience with others.",
+        "recipes": [
+        {
+        "recipeName": "Crispy Pork Belly",
+        "id": "r013",
+        "photoUrl": "https://example.com/images/porkbelly.jpg"
+        },
+        {
+        "recipeName": "Wild Mushroom Risotto",
+        "id": "r014",
+        "photoUrl": "https://example.com/images/mushroomrisotto.jpg"
+        },
+        {
+        "recipeName": "Lemon Tart",
+        "id": "r015",
+        "photoUrl": "https://example.com/images/lemontart.jpg"
+        }
+        ]
+   },
+   {
+        "id": "006",
+        "picture": "https://i.ibb.co/DgKdwxw/chef1.jpg",
+        "name": "Frankie Perez",
+        "yearsOfExperience": 3,
+        "numRecipes": 10,
+        "likes": 100,
+        "description": "Chef Emily is a young chef with a passion for baking. She enjoys creating sweet treats and sharing her creations with others.",
+        "recipes": [
+        {
+        "recipeName": "Chocolate Chip Cookies",
+        "id": "r016",
+        "photoUrl": "https://example.com/images/chocolatechipcookies.jpg"
+        },
+        {
+        "recipeName": "Blueberry Muffins",
+        "id": "r017",
+        "photoUrl": "https://example.com/images/blueberrymuffins.jpg"
+        },
+        {
+        "recipeName": "Vanilla Cupcakes",
+        "id": "r018",
+        "photoUrl": "https://example.com/images/vanillacupcakes.jpg"
+        }
+        ]
+  }
   ]
