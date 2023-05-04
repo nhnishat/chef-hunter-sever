@@ -23,7 +23,9 @@
           "id": "r003",
           "photoUrl": "https://i.ibb.co/CvSVNqP/anna-tukhfatullina-food-photographer-stylist-Mzy-Ojt-CI70-unsplash.jpg"
         }
-      ]
+      ],
+      "ingredients":{ "name": "eggs", "amount": "2" }
+
     },
     {
       "id": "2",
@@ -49,7 +51,8 @@
           "id": "r006",
           "photoUrl": "https://i.ibb.co/mSxW6fH/anita-austvika-y-Fx-AORZc-JQk-unsplash.jpg"
         }
-      ]
+      ],
+      "ingredients":{ "name": "milk", "amount": "1 cup" }
     },
     {
       "id": "3",
@@ -75,7 +78,9 @@
           "id": "r009",
           "photoUrl": "https://i.ibb.co/8YKzbZ8/george-dagerotip-r3f-S1i-KB45o-unsplash.jpg"
         }
-      ]
+      ],
+      "ingredients":{ "name": "salt", "amount": "1/2 teaspoon" }
+
     },
     {
       "id": "4",
@@ -101,7 +106,8 @@
         "id": "r012",
         "photoUrl": "https://i.ibb.co/CvSVNqP/anna-tukhfatullina-food-photographer-stylist-Mzy-Ojt-CI70-unsplash.jpg"
         }
-        ]
+        ],
+        "ingredients":{ "name": "flour", "amount": "2 cups" }
     },
    {
         "id": "5",
@@ -127,7 +133,9 @@
         "id": "r015",
         "photoUrl": "https://i.ibb.co/KxwBvvr/joseph-gonzalez-zc-Ugjyq-Ewe8-unsplash.jpg"
         }
-        ]
+        ],
+        "ingredients":{ "name": "sugar", "amount": "1 cups" }
+
    },
    {
         "id": "6",
@@ -153,6 +161,8 @@
         "id": "r018",
         "photoUrl": "https://i.ibb.co/BjpG333/joseph-gonzalez-fdl-ZBWIP0a-M-unsplash.jpg"
         }
-        ]
+        ],
+        "ingredients":{ "name": "baking powder", "amount": "2 teaspoons" }
+        
   }
   ]
